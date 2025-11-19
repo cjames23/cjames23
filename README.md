@@ -4,6 +4,6 @@ A little about me, I am primarily a Python developer(though my github stats say 
 I am also a climber that enjoys some type 2 fun. 
 
 # Stats 
-![Github stats](https://github-readme-stats.vercel.app/api?username=cjames23&theme=aura&hide_title=true&show_icons=true&include_all_commits=false&count_private=false)
-![leahs's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjames23&theme=aura&hide_title=true&layout=compact&langs_count=10&hide=html)
+![Github stats](https://github-readme-stats.vercel.app/api?username=cjames23&theme=aura&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&hide=C#,asp)
+![leahs's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjames23&theme=aura&hide_title=true&layout=compact&langs_count=10&hide=html,C#,asp)
 
