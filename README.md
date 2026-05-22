@@ -1,5 +1,5 @@
 ## Hi there 👋
-A little about me, I am primarily a Python developer(though my github stats say otherwise lol) that supports other Pythonistas at Amazon. I work in the space of build tools and being a Python ecologist aka I make sure that the ecosystem is healthy. 
+A little about me, I am primarily a Python developer that supports other Pythonistas at Amazon. I work in the space of build tools and being a Python ecologist aka I make sure that the ecosystem is healthy. 
 
 I am also a climber that enjoys some type 2 fun. 
 
